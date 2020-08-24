@@ -10,13 +10,13 @@ h1{
     background: #1B1D23;
 }
 img{
-    width: 75px;
-    height: 150px;
+    width: 100px;
+    height: 175px;
     border-radius: 10px;
 }
 button{
     height: 60px;
-    width: 300px;
+    width: 500px;
     font-size: 15px;
     box-shadow: 10px;
     background-color: #1BD000;
