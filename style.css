@@ -9,13 +9,13 @@ h1{
     color: whitesmoke;
 }
 img{
-    width: 50px;
-    height: 100px;
+    width: 70px;
+    height: 150px;
     border-radius: 10px;
 }
 button{
     height: 60px;
-    width: 200px;
+    width: 300px;
     font-size: 15px;
     box-shadow: 10px;
     background-color: #1BD000;
