@@ -22,7 +22,7 @@ button{
     background-color: #1BD000;
     color: white;
     border-radius: 20px;
-    margin-left: 20px;
+    margin-left: 30px;
 }
 p{
     font-family: 'Montserrat Alternates', sans-serif;
@@ -47,6 +47,7 @@ h3{
 }
 html{
     background: #24292E;
+    padding: 5%;
 }
 span{
     text-decoration: underline;
