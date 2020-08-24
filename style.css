@@ -1,0 +1,52 @@
+#logo{
+    width: 40px;
+    height: 40px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: whitesmoke;
+}
+img{
+    width: 295px;
+    height: 640px;
+    border-radius: 25px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    font-size: 15px;
+    box-shadow: 10px;
+    background-color: #1BD000;
+    color: white;
+    border-radius: 20px;
+    margin-left: 3%;
+}
+p{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: whitesmoke;
+}
+li{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: whitesmoke;
+}
+h2{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: whitesmoke;
+}
+button:hover{
+    text-decoration: underline;
+    background-color: #1BC000;
+}
+h3{
+    text-align: center;
+    font-family: 'Merienda', cursive;
+    color: whitesmoke;
+}
+html{
+    background: #323232;
+}
+span{
+    text-decoration: underline;
+}
