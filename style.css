@@ -9,19 +9,19 @@ h1{
     color: whitesmoke;
 }
 img{
-    width: 295px;
-    height: 640px;
-    border-radius: 25px;
+    width: 150px;
+    height: 320px;
+    border-radius: 10px;
 }
 button{
-    height: 50px;
-    width: 150px;
+    height: 60px;
+    width: 200px;
     font-size: 15px;
     box-shadow: 10px;
     background-color: #1BD000;
     color: white;
     border-radius: 20px;
-    margin-left: 3%;
+    margin-left: 50%;
 }
 p{
     font-family: 'Montserrat Alternates', sans-serif;
