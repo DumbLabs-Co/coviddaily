@@ -7,9 +7,10 @@ h1{
     text-align: center;
     font-family: 'Montserrat Alternates', sans-serif;
     color: whitesmoke;
+    background: #1B1D23;
 }
 img{
-    width: 70px;
+    width: 75px;
     height: 150px;
     border-radius: 10px;
 }
@@ -45,7 +46,7 @@ h3{
     color: whitesmoke;
 }
 html{
-    background: #323232;
+    background: #24292E;
 }
 span{
     text-decoration: underline;
