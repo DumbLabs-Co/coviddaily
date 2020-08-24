@@ -7,11 +7,11 @@ h1{
     text-align: center;
     font-family: 'Montserrat Alternates', sans-serif;
     color: whitesmoke;
-    background: #1B1D23 cover;
+    background: #1B1D23;
 }
 img{
-    width: 100px;
-    height: 175px;
+    width: 90px;
+    height: 200px;
     border-radius: 10px;
 }
 button{
@@ -22,7 +22,7 @@ button{
     background-color: #1BD000;
     color: white;
     border-radius: 20px;
-    margin-left: 30px;
+    margin-left: 20px;
 }
 p{
     font-family: 'Montserrat Alternates', sans-serif;
@@ -50,4 +50,8 @@ html{
 }
 span{
     text-decoration: underline;
+}
+.scroll{
+    overflow: auto;
+    white-space: nowrap;
 }
