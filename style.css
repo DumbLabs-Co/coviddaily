@@ -9,8 +9,8 @@ h1{
     color: whitesmoke;
 }
 img{
-    width: 150px;
-    height: 320px;
+    width: 50px;
+    height: 100px;
     border-radius: 10px;
 }
 button{
@@ -21,7 +21,7 @@ button{
     background-color: #1BD000;
     color: white;
     border-radius: 20px;
-    margin-left: 50%;
+    margin-left: 20%;
 }
 p{
     font-family: 'Montserrat Alternates', sans-serif;
