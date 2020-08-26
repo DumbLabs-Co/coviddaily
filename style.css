@@ -14,8 +14,8 @@ h1{
 
 }
 img{
-    width: 130px;
-    height: 260px;
+    width: 150px;
+    height: 300px;
     border-radius: 10px;
     margin-right: 2px;
 }
@@ -32,7 +32,6 @@ button{
 p{
     font-family: 'Montserrat Alternates', sans-serif;
     color: whitesmoke;
-    padding-left: 230px;
 }
 li{
     font-family: 'Montserrat Alternates', sans-serif;
