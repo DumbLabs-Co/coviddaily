@@ -63,3 +63,10 @@ p{
     padding-left: 30px;
     padding-right: 30px;
 }
+div{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+html{
+    background: white;
+}
