@@ -8,10 +8,14 @@ h1{
     font-family: 'Montserrat Alternates', sans-serif;
     color: whitesmoke;
     background: #1B1D23;
+    background-size: 100% 100;
+    position: static;
+    margin: 0px;
+
 }
 img{
-    width: 90px;
-    height: 200px;
+    width: 130px;
+    height: 260px;
     border-radius: 10px;
 }
 button{
@@ -47,7 +51,6 @@ h3{
 }
 html{
     background: #24292E;
-    padding: 5%;
 }
 span{
     text-decoration: underline;
@@ -55,4 +58,8 @@ span{
 .scroll{
     overflow: auto;
     white-space: nowrap;
+}
+div{
+    padding-left: 30px;
+    padding-right: 30px;
 }
