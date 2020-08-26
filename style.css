@@ -50,7 +50,7 @@ h3{
     color: whitesmoke;
 }
 html{
-    background: white;
+    background: #24292E;
 }
 span{
     text-decoration: underline;
@@ -66,5 +66,4 @@ p{
 div{
     padding-left: 50px;
     padding-right: 50px;
-    background: #24292E;
 }
