@@ -27,6 +27,8 @@ button{
     color: white;
     border-radius: 20px;
     margin-left: 35px;
+    margin-left: 5cm;
+    margin-right: 5cm;
 }
 p{
     font-family: 'Montserrat Alternates', sans-serif;
@@ -35,10 +37,14 @@ p{
 li{
     font-family: 'Montserrat Alternates', sans-serif;
     color: whitesmoke;
+    margin-left: 5cm;
+    margin-right: 5cm;
 }
 h2{
     font-family: 'Montserrat Alternates', sans-serif;
     color: whitesmoke;
+    margin-left: 5cm;
+    margin-right: 5cm;
 }
 button:hover{
     text-decoration: underline;
@@ -58,8 +64,12 @@ span{
 .scroll{
     overflow: auto;
     white-space: nowrap;
+    margin-left: 5cm;
+    margin-right: 5cm;
 }
 p{
     padding-left: 50px;
     padding-right: 50px;
+    margin-left: 5cm;
+    margin-right: 5cm;
 }
