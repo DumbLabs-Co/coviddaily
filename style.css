@@ -17,6 +17,7 @@ img{
     width: 130px;
     height: 260px;
     border-radius: 10px;
+    margin-right: 2px;
 }
 button{
     height: 60px;
@@ -26,25 +27,20 @@ button{
     background-color: #1BD000;
     color: white;
     border-radius: 20px;
-    margin-left: 35px;
-    margin-left: 5cm;
-    margin-right: 5cm;
+    margin-left: 40px;
 }
 p{
     font-family: 'Montserrat Alternates', sans-serif;
     color: whitesmoke;
+    padding-left: 230px;
 }
 li{
     font-family: 'Montserrat Alternates', sans-serif;
     color: whitesmoke;
-    margin-left: 5cm;
-    margin-right: 5cm;
 }
 h2{
     font-family: 'Montserrat Alternates', sans-serif;
     color: whitesmoke;
-    margin-left: 5cm;
-    margin-right: 5cm;
 }
 button:hover{
     text-decoration: underline;
@@ -57,6 +53,7 @@ h3{
 }
 html{
     background: #24292E;
+    
 }
 span{
     text-decoration: underline;
@@ -64,12 +61,4 @@ span{
 .scroll{
     overflow: auto;
     white-space: nowrap;
-    margin-left: 5cm;
-    margin-right: 5cm;
-}
-p{
-    padding-left: 50px;
-    padding-right: 50px;
-    margin-left: 5cm;
-    margin-right: 5cm;
 }
