@@ -1,10 +1,12 @@
 #logo{
-    width: 70px;
-    height: 70px;
-    text-align: center;
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
 h1{
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
     font-family: 'Montserrat Alternates', sans-serif;
     color: #232323;
