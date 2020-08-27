@@ -4,6 +4,7 @@
     display: block;
     margin-right: auto;
     margin-left: auto;
+    border: none;
 }
 h1{
     font-size: 50px;
@@ -12,13 +13,13 @@ h1{
     color: #232323;
     position: static;
     margin: 0px;
-
 }
 img{
     width: 150px;
     height: 300px;
     border-radius: 10px;
     margin-right: 2px;
+    border: solid black 1px;
 }
 button{
     height: 60px;
