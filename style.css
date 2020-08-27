@@ -6,7 +6,7 @@ h1{
     font-size: 50px;
     text-align: center;
     font-family: 'Montserrat Alternates', sans-serif;
-    color: whitesmoke;
+    color: #232323;
     background: #1B1D23;
     background-size: 100% 100;
     position: static;
@@ -31,15 +31,15 @@ button{
 }
 p{
     font-family: 'Montserrat Alternates', sans-serif;
-    color: whitesmoke;
+    color: #232323;
 }
 li{
     font-family: 'Montserrat Alternates', sans-serif;
-    color: whitesmoke;
+    color: #232323;
 }
 h2{
     font-family: 'Montserrat Alternates', sans-serif;
-    color: whitesmoke;
+    color: #232323;
 }
 button:hover{
     text-decoration: underline;
@@ -48,10 +48,10 @@ button:hover{
 h3{
     text-align: center;
     font-family: 'Merienda', cursive;
-    color: whitesmoke;
+    color: #232323;
 }
 html{
-    background: #24292E;
+    background: whitesmoke;
     
 }
 span{
