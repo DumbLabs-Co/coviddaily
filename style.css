@@ -59,9 +59,6 @@ html{
     background: #f0f0f0;
     
 }
-span{
-    text-decoration: underline;
-}
 .scroll{
     overflow: auto;
     white-space: nowrap;
