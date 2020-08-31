@@ -71,3 +71,11 @@ a{
     padding: 0 15px;
     margin: 0 auto;
 }
+video{
+    width: 150px;
+    height: 300px;
+    border-radius: 10px;
+    margin-right: 5px;
+    border: black solid 1px;
+    z-index: 1;
+}
