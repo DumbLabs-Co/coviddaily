@@ -16,8 +16,8 @@ h1{
 
 }
 img{
-    width: 150px;
-    height: 300px;
+    width: 200px;
+    height: 380px;
     border-radius: 10px;
     margin-right: 5px;
     border: black solid 1px;
@@ -72,8 +72,8 @@ a{
     margin: 0 auto;
 }
 video{
-    width: 150px;
-    height: 300px;
+    width: 200px;
+    height: 380px;
     border-radius: 10px;
     margin-right: 5px;
     border: black solid 1px;
