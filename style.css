@@ -20,7 +20,6 @@ img{
     height: 380px;
     border-radius: 10px;
     margin-right: 5px;
-    border: black solid 1px;
 }
 button{
     height: 60px;
@@ -76,6 +75,5 @@ video{
     height: 380px;
     border-radius: 10px;
     margin-right: 5px;
-    border: black solid 1px;
     z-index: 1;
 }
