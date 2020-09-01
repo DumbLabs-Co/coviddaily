@@ -1,22 +1,22 @@
-#COVID Daily
+# COVID Daily
 
-![alt text](https://github.com/DumbLabs-Co/coviddaily/blob/gh-pages/home.jpeg)
-![alt text](https://github.com/DumbLabs-Co/coviddaily/blob/gh-pages/state.jpeg)
-![alt text](https://github.com/DumbLabs-Co/coviddaily/blob/gh-pages/district.jpeg)
+![Home Page](https://github.com/DumbLabs-Co/coviddaily/blob/gh-pages/home.jpeg)
+![State Page](https://github.com/DumbLabs-Co/coviddaily/blob/gh-pages/state.jpeg)
+![District Page](https://github.com/DumbLabs-Co/coviddaily/blob/gh-pages/district.jpeg)
 
-#Download App
+## Download App
 [Android](dumblabs-co.github.io/coviddaily)
 
-#Repository
+## Repository
 [App](https://github.com/DumbLabs-Co/Covid-Daily)
 
-#Contributors
+## Contributors
 [Yash Mehta](https://github.com/yashmehta17)
 [Jinay Bafna](https://github.com/JBafna)
 [Gagan Chordia](https://github.com/gagan-gv)
 
-#Credits
+## Credits
 COVID19INDIA
 
-#Getting Started
+## Getting Started
 This app is starting point for an Android applicarion.
