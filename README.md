@@ -1,8 +1,6 @@
 # COVID Daily
 
-![Home Page](https://github.com/DumbLabs-Co/coviddaily/blob/gh-pages/home.jpeg =200x380)
-![State Page](https://github.com/DumbLabs-Co/coviddaily/blob/gh-pages/state.jpeg =200x380)
-![District Page](https://github.com/DumbLabs-Co/coviddaily/blob/gh-pages/district.jpeg =200x380)
+![Project View](https://github.com/DumbLabs-Co/coviddaily/blob/gh-pages/readme.png)
 
 ## Download App
 [Android](dumblabs-co.github.io/coviddaily)
