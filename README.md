@@ -15,7 +15,7 @@
 - [Gagan Chordia](https://github.com/gagan-gv)
 
 ## Credits
-COVID19INDIA
+- [COVID19INDIA](https://api.covid19india.org)
 
 ## Getting Started
 This app is starting point for an Android applicarion.
