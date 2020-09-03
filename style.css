@@ -59,7 +59,7 @@ html{
     
 }
 .scroll{
-    overflow: auto;
+    overflow: auto hidden;
     white-space: nowrap;
 }
 a{
