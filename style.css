@@ -60,7 +60,7 @@ html{
 }
 .scroll{
     white-space: nowrap;
-    overflow-x: auto hidden;
+    overflow: auto hidden;
 }
 a{
     text-decoration: none;
