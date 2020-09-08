@@ -59,9 +59,8 @@ html{
     
 }
 .scroll{
-    overflow: auto hidden;
     white-space: nowrap;
-    overflow-x: hidden;
+    overflow-x: auto hidden;
 }
 a{
     text-decoration: none;
