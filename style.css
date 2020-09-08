@@ -61,6 +61,7 @@ html{
 .scroll{
     overflow: auto hidden;
     white-space: nowrap;
+    overflow-x: hidden;
 }
 a{
     text-decoration: none;
