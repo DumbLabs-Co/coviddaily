@@ -59,8 +59,8 @@ html{
     
 }
 .scroll{
-    white-space: nowrap;
     overflow: auto hidden;
+    white-space: nowrap;
 }
 a{
     text-decoration: none;
