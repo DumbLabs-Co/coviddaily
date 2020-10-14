@@ -25,10 +25,9 @@ button{
     height: 60px;
     width: 300px;
     font-size: 15px;
-    box-shadow: 10px;
     background-color: #1BD000;
     color: white;
-    border-radius: 5px;
+    border-radius: 10px;
     display: block;
     margin-right: auto;
     margin-left: auto;
