@@ -77,7 +77,7 @@ video{
     z-index: 1;
 }
 #mail{
-    color: black;
+    color: #232323;
 }
 #mail:hover{
     text-decoration: underline;
