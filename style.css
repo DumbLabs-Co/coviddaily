@@ -76,3 +76,9 @@ video{
     margin-right: 5px;
     z-index: 1;
 }
+#mail{
+    color: black;
+}
+#mail:hover{
+    text-decoration: underline;
+}
